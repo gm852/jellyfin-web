@@ -10,8 +10,6 @@
     color: inherit;
 
     /* These are getting an outline in opera tv browsers, which run chrome 30 */
-    outline: none !important;
-    outline-width: 0;
     user-select: none;
     cursor: pointer;
     z-index: 0;
@@ -106,7 +104,6 @@
     border: 0;
 
     /* These are getting an outline in opera tv browsers, which run chrome 30 */
-    outline: none !important;
     overflow: hidden;
     border-radius: 50%;
 

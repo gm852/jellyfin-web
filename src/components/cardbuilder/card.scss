@@ -19,7 +19,6 @@ button::-moz-focus-inner {
     display: block;
     color: inherit !important;
     -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
-    outline: none !important;
     cursor: pointer;
     contain: layout style;
     flex-shrink: 0;
@@ -217,7 +216,6 @@ button::-moz-focus-inner {
     /* Needed in safari */
     height: 100%;
     -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
-    outline: none !important;
     contain: strict;
 }
 
@@ -331,7 +329,6 @@ button::-moz-focus-inner {
     padding: 0 !important;
     cursor: pointer;
     -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
-    outline: none !important;
     color: inherit;
     vertical-align: middle;
     font-family: inherit;
